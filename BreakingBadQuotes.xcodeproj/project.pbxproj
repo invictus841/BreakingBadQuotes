@@ -11,6 +11,7 @@
 		ACA96F1A2975A9FE0058A113 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA96F192975A9FE0058A113 /* ContentView.swift */; };
 		ACA96F1C2975AA000058A113 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACA96F1B2975AA000058A113 /* Assets.xcassets */; };
 		ACA96F1F2975AA000058A113 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACA96F1E2975AA000058A113 /* Preview Assets.xcassets */; };
+		ACA96F262975AAAB0058A113 /* QuoteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA96F252975AAAB0058A113 /* QuoteModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ACA96F192975A9FE0058A113 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ACA96F1B2975AA000058A113 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACA96F1E2975AA000058A113 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ACA96F252975AAAB0058A113 /* QuoteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				ACA96F172975A9FE0058A113 /* BreakingBadQuotesApp.swift */,
 				ACA96F192975A9FE0058A113 /* ContentView.swift */,
+				ACA96F252975AAAB0058A113 /* QuoteModel.swift */,
 				ACA96F1B2975AA000058A113 /* Assets.xcassets */,
 				ACA96F1D2975AA000058A113 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACA96F262975AAAB0058A113 /* QuoteModel.swift in Sources */,
 				ACA96F1A2975A9FE0058A113 /* ContentView.swift in Sources */,
 				ACA96F182975A9FE0058A113 /* BreakingBadQuotesApp.swift in Sources */,
 			);
